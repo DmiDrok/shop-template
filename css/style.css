@@ -94,37 +94,37 @@ input[type=number] {
 @font-face {
   font-family: "Gilroy";
   font-weight: 300;
-  src: url(../fonts/Gilroy-Light.woff) format("woff");
+  src: url(../fonts/Gilroy-Light.woff2) format("woff2"), url(../fonts/Gilroy-Light.woff) format("woff"), url(../fonts/Gilroy-Light.ttf) format("truetype");
 }
 @font-face {
   font-family: "Gilroy";
   font-weight: 400;
-  src: url(../fonts/Gilroy-Regular.woff) format("woff");
+  src: url(../fonts/Gilroy-Regular.woff2) format("woff2"), url(../fonts/Gilroy-Regular.woff) format("woff"), url(../fonts/Gilroy-Regular.ttf) format("truetype");
 }
 @font-face {
   font-family: "Gilroy";
   font-weight: 500;
-  src: url(../fonts/Gilroy-Medium.woff) format("woff");
+  src: url(../fonts/Gilroy-Medium.woff2) format("woff2"), url(../fonts/Gilroy-Medium.woff) format("woff"), url(../fonts/Gilroy-Medium.ttf) format("truetype");
 }
 @font-face {
   font-family: "Gilroy";
   font-weight: 600;
-  src: url(../fonts/Gilroy-SemiBold.woff) format("woff");
+  src: url(../fonts/Gilroy-SemiBold.woff2) format("woff2"), url(../fonts/Gilroy-SemiBold.woff) format("woff"), url(../fonts/Gilroy-SemiBold.ttf) format("truetype");
 }
 @font-face {
   font-family: "Gilroy";
   font-weight: 700;
-  src: url(../fonts/Gilroy-Bold.woff) format("woff");
+  src: url(../fonts/Gilroy-Bold.woff) format("woff"), url(../fonts/Gilroy-Bold.woff) format("woff"), url(../fonts/Gilroy-Bold.ttf) format("truetype");
 }
 @font-face {
   font-family: "Zing Rust";
   font-weight: 400;
-  src: url(../fonts/ZingRustDemo-Base.ttf) format("truetype");
+  src: url(../fonts/ZingRustDemo-Base.woff2) format("woff2"), url(../fonts/ZingRustDemo-Base.woff) format("woff"), url(../fonts/ZingRustDemo-Base.ttf) format("truetype");
 }
 @font-face {
   font-family: "Proxima Nova";
   font-weight: 700;
-  src: url(../fonts/ProximaNova-Bold.woff2) format("woff2") url(../fonts/ProximaNova-Bold.ttf) format("truetype");
+  src: url(../fonts/ProximaNova-Bold.woff2) format("woff2"), url(../fonts/ProximaNova-Bold.woff) format("woff"), url(../fonts/ProximaNova-Bold.ttf) format("truetype"), url(../fonts/ProximaNova-Bold.otf) format("opentype");
 }
 .section-title {
   position: relative;
@@ -4258,37 +4258,37 @@ iframe {
 @font-face {
   font-family: "Gilroy";
   font-weight: 300;
-  src: url(../fonts/Gilroy-Light.woff) format("woff");
+  src: url(../fonts/Gilroy-Light.woff2) format("woff2"), url(../fonts/Gilroy-Light.woff) format("woff"), url(../fonts/Gilroy-Light.ttf) format("truetype");
 }
 @font-face {
   font-family: "Gilroy";
   font-weight: 400;
-  src: url(../fonts/Gilroy-Regular.woff) format("woff");
+  src: url(../fonts/Gilroy-Regular.woff2) format("woff2"), url(../fonts/Gilroy-Regular.woff) format("woff"), url(../fonts/Gilroy-Regular.ttf) format("truetype");
 }
 @font-face {
   font-family: "Gilroy";
   font-weight: 500;
-  src: url(../fonts/Gilroy-Medium.woff) format("woff");
+  src: url(../fonts/Gilroy-Medium.woff2) format("woff2"), url(../fonts/Gilroy-Medium.woff) format("woff"), url(../fonts/Gilroy-Medium.ttf) format("truetype");
 }
 @font-face {
   font-family: "Gilroy";
   font-weight: 600;
-  src: url(../fonts/Gilroy-SemiBold.woff) format("woff");
+  src: url(../fonts/Gilroy-SemiBold.woff2) format("woff2"), url(../fonts/Gilroy-SemiBold.woff) format("woff"), url(../fonts/Gilroy-SemiBold.ttf) format("truetype");
 }
 @font-face {
   font-family: "Gilroy";
   font-weight: 700;
-  src: url(../fonts/Gilroy-Bold.woff) format("woff");
+  src: url(../fonts/Gilroy-Bold.woff) format("woff"), url(../fonts/Gilroy-Bold.woff) format("woff"), url(../fonts/Gilroy-Bold.ttf) format("truetype");
 }
 @font-face {
   font-family: "Zing Rust";
   font-weight: 400;
-  src: url(../fonts/ZingRustDemo-Base.ttf) format("truetype");
+  src: url(../fonts/ZingRustDemo-Base.woff2) format("woff2"), url(../fonts/ZingRustDemo-Base.woff) format("woff"), url(../fonts/ZingRustDemo-Base.ttf) format("truetype");
 }
 @font-face {
   font-family: "Proxima Nova";
   font-weight: 700;
-  src: url(../fonts/ProximaNova-Bold.woff2) format("woff2") url(../fonts/ProximaNova-Bold.ttf) format("truetype");
+  src: url(../fonts/ProximaNova-Bold.woff2) format("woff2"), url(../fonts/ProximaNova-Bold.woff) format("woff"), url(../fonts/ProximaNova-Bold.ttf) format("truetype"), url(../fonts/ProximaNova-Bold.otf) format("opentype");
 }
 /*Обнуление*/
 * {
